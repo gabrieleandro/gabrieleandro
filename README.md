@@ -2,8 +2,9 @@
 💻 Web Developer
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieleandro)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieleandro)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 <!--
