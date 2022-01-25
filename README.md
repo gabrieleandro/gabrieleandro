@@ -1,5 +1,5 @@
 ### 🍃 Be the leaf
-💻 Web Developer
+💻 Full-Stack Developer
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrieleandro&show_icons=true&theme=radical)
 <!--
